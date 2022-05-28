@@ -16,13 +16,15 @@ In June we recorded 1700 measurements, with a mean of 74.9, min of 64.0 and max 
    ![IMAGE_DESCRIPTION](/images/december-temps.png)
  
  ### Additional queries
-- To increase the investor's confidence, we added few more queries to count the stations what measured the data and showed how active each station was.
+- To increase the investor's confidence, we added few more queries to count the stations that measured the data and showed how active each station was.
+- 
   ![IMAGE_DESCRIPTION](/images/additional-queries.png)
   
  - We also plotted the data for June and December to understand if we had any outliers or skewness in the temperatures curves
+ 
   ![IMAGE_DESCRIPTION](/images/june-plot.png)
  
- ![IMAGE_DESCRIPTION](/images/december-plot.png)
+  ![IMAGE_DESCRIPTION](/images/december-plot.png)
  
  
 
