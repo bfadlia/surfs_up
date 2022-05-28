@@ -30,5 +30,7 @@ In June we recorded 1700 measurements, with a mean of 74.9, min of 64.0 and max 
 
 ## Summary
 
- - The needs of each department in the Silver Tsunami is different. Some departments will be hit hard whilew others will see very small effect. Mentorship resources should therefore be prioritized and allocated accordingly
- - The company is certainly going to be hurt badly if it does not plan early for this problem. The number of soon to be retired employees and hence the number ofg jobs that will need to be filled is orders of magnitues larger than the number of mentors and qualified replacement staff.
+ - The data shows the average temperatures are in a pleasant range that is not too hot and not too cold year round which is great for the surf shop business.
+ - As expected, average temperatures are higher in Jne than in December. But the 5 degrees difference is not so big to expect a big difference in business.
+ - Plotting the temperatrures data shows that June temperatures have a more normal bell curve than december with no outliers or skewness.
+ - More data and investigation of other factors can be helpful for the shop's success. Other than temperatures, we should examine precipirtation, storms and other weather factors.
